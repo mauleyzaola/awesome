@@ -6,5 +6,5 @@
 
 [sqlc](https://github.com/sqlc-dev/sqlc) sqlc: A SQL Compiler
 
-[copier] (https://github.com/jinzhu/copier) Copier
+[copier](https://github.com/jinzhu/copier) Copier
 
